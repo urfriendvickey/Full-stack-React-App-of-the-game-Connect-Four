@@ -1,0 +1,16 @@
+🚀 Excited to share my recent project called "Full-Stack React App of the Game Connect Four"! 🎮
+
+In this project, I developed a full-stack application using Express.js, Node.js, MongoDB, and React.js. The app allows users to play the classic game Connect Four. But it doesn't stop there!
+
+The app utilizes MongoDB to store user information such as username and password securely. On the front end, users can submit their credentials, which are then successfully added to the MongoDB database. Once authenticated, they are redirected to the welcome page where they can enjoy the game with two players.
+
+After an intense game session, the app declares the winner and even provides a convenient "start again" button on the welcome page for a rematch!
+
+The whole code for this project is available on GitHub, and you can check it out here: GitHub Repository
+
+Feel free to explore the code, provide feedback, and even contribute if you'd like. Let's connect and discuss more about this exciting project! 🤝
+
+#FullStackDevelopment #ReactJS #ExpressJS #NodeJS #MongoDB #GameDevelopment
+
+Note: place the welcomepage and both app files into the source folder of react app once installed. 
+keep the server.js in the main repository of the app.
